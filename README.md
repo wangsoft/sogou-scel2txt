@@ -3,7 +3,7 @@
 
 ## 使用方法：
 
-** python scel_parser.py <输入.scel> [输出.txt]**
+** python scel_parser.py <输入.scel> [输出.txt] **
 
 
 ## 原理：
