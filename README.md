@@ -1,6 +1,14 @@
 # sogou-scel2txt
 搜狗词库scel转换为可读txt格式
 
+## 使用方法：
+
+** python scel_parser.py <输入.scel> [输出.txt]**
+
+
+## 原理：
+
+
 `.scel` 是搜狗拼音输入法所使用的细胞词库格式，可以在 https://pinyin.sogou.com/dict/ 下载。
 
 | #    | 范围           | 描述                         |
